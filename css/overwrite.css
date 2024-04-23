@@ -1,0 +1,47 @@
+body{
+    color: darkblue;
+    background-color: darkgrey;
+    position: absolute;
+    font-family:'Times New Roman', Times, serif
+}
+
+.header{
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 80px;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.middlemenu{
+    top: 150px;
+    left: 10px;
+    right: 10px;
+    height: 25px;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: larger;
+}
+
+.mainbody{
+    top: 150px;
+    left: 150px;
+    right: 10px;
+    bottom: 50px;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+}
